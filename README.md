@@ -5,6 +5,8 @@
 
 this is a tensorflow repo for denseaspp,the weight is borrow from [here](https://github.com/DeepMotionAIResearch/DenseASPP), and achieve 79.5% miou in Cityscapes val
 
+![](./imgs/frankfurt_000000_000294_leftImg8bit.png)
+
 weight链接: https://pan.baidu.com/s/1-dFduu6nr_d2zk45JxwaQw 提取码: sb92
 
 
